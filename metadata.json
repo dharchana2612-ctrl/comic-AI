@@ -1,0 +1,6 @@
+{
+  "name": "ComicCraft — AI Comic Story Creator",
+  "description": "Turn your imagination into a comic. Create personalized 5-panel comics with AI-powered storytelling, dialogue, illustrations, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
